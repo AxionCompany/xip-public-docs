@@ -8,7 +8,9 @@ Content-Type: application/json
 Referer: https://www.uniaoexpress.com.br/
 
 ### Request Body
+
 | Parameter | Type | Description | Example | 
+| ------------- | ------------- | ------------- | ------------- |
 | type | string | Type of the entity | “receiver” or “sender” | 
 | document_number | string | CNPJ number | “12.312.312/3123-12” | 
 | nro_nf | string | NF number | “123” | 
