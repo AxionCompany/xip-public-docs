@@ -4,8 +4,9 @@
 POST https://xip-backend.axion.company/tracking
 
 ### Headers
-Content-Type: application/json
-Referer: https://www.uniaoexpress.com.br/
+`Content-Type: application/json`;
+
+`Referer: {site_domain}`; eg.: https://www.uniaoexpress.com.br/
 
 ### Request Body
 
