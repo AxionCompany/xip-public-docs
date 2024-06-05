@@ -1,3 +1,17 @@
+## Introduction
+Welcome to the API documentation for the Tracking service of the XIP platform, developed and maintained by AXION Company. The XIP platform offers robust and efficient logistics and tracking solutions to streamline your supply chain operations. This specific API endpoint allows you to track shipments by providing necessary details such as the type of entity (receiver or sender), CNPJ number, and NF number.
+
+## About AXION Company
+AXION Company is a leading provider of innovative logistics solutions, committed to enhancing operational efficiency and delivering superior service. To learn more about AXION Company and our suite of services, please visit https://axion.company.
+
+## API Overview
+The Tracking API is designed to provide real-time tracking information for shipments. It accepts POST requests with specific parameters and returns detailed tracking data. This documentation provides all necessary information to get started with integrating the Tracking API into your applications, including example requests in cURL, JavaScript, and Python.
+
+## Getting Started
+To start using the Tracking API, you need to send a POST request to the specified endpoint with the required headers and body parameters. The following sections provide detailed information about the request structure, including headers, body parameters, and example requests.
+
+Feel free to explore the examples and use them to integrate the Tracking API into your system for efficient and accurate shipment tracking. If you have any questions or need further assistance, please reach out to our support team at support@axion.company.
+
 ## API Documentation for Tracking Request - XIP API
 
 ### Endpoint
